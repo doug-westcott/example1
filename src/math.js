@@ -1,5 +1,5 @@
 /**
- * Simple addition.
+ * Simple addition
  *
  * @param {number} x First number.
  * @param {number} y second number.
