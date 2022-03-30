@@ -23,7 +23,7 @@ const subtract = (x, y) => x - y;
  * @param {number} y second number.
  * @returns Multiplication of both arguments.
  */
-const multiply = (x, y) => x * y;
+const multiply = (x, y) => x ** y;
 
 module.exports = {
   add,
